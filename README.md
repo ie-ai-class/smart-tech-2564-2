@@ -5,3 +5,5 @@
 - [Lectures](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/EofcXGq6iWlHiGQ7j4IWc7kBmeQmNhBrxLHhnYR51fyeDA?e=LwYhcJ)
 
 - [Textbooks](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/ElQk-2TltpZBoMGLLRAIuCMBp0dkVZC7n4dNlBlWanQKPA?e=0g0ZiA)
+
+- [Codes](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/Esefj6mgEHhOopXGEBvlWBYBJzdj0mv5kcuNRDqM4nyTpQ?e=bUhmdo)
